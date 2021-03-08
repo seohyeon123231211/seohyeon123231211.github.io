@@ -1,0 +1,23 @@
+<!doctype html> <!-- kimseohyeon.html -->
+<html><head>
+<meta charset="utf=8/>
+<meta name="viewport" content="width=device-width,initial-sacle-1"/>
+<title> 개인 과제 리스트</title>
+<style>
+a:link {color:blue; text-decoration:none;} a:visited {color:purple; text-decoration:none;}
+a:hover { text-decoration:underline;} a:active {color:red; text-decoration:none;}
+</style></heda>
+<body>
+<h1>김서현 과제 리스트</h3>
+<ul><hr/>
+<ii 1주 1회차 </li>
+<ol>
+<li><a href=""
+</ol><hr/>
+<li> 1주 2회차 </li>
+<ol>
+<li>
+<li>
+</ol><hr/>
+</ul>
+</body></html>
